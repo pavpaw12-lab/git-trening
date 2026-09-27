@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ﻿Wersja A tej linii
+=======
+﻿Wersja B tej linii
+>>>>>>> branch-b
+
+ten zostaje
